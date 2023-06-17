@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>filter.png</file>
+    <file>filter1.png</file>
+    <file>adjust.png</file>
+    <file>rotate-left.png</file>
+    <file>down-up.png</file>
+    <file>flip.png</file>
+    <file>flip1.png</file>
+    <file>flip2.png</file>
+    <file>close.png</file>
+    <file>downloading.png</file>
+    <file>cancel.png</file>
+    <file>download.png</file>
+    <file>download1.png</file>
+    <file>cross.png</file>
+    <file>download2.png</file>
+  </qresource>
+</RCC>
